@@ -22,6 +22,9 @@
 p{
   color: white;
 }
+.textColor{
+  color: white;
+}
 
 .divider_button{
   height: 33%;
@@ -29,8 +32,6 @@ p{
   bottom: 3%;
   left: 50%;
   transform: translateX(-50%);
-
-
 }
 
 .adviceColor{

@@ -35,9 +35,8 @@ function App() {
 
       <div className = 'advice_Quote'>
             {loading ? (
-              <pre>Loading...
-
-              </pre>
+              <p className='textColor'>Loading..
+              </p>
                 
               ) : (
             data && (
